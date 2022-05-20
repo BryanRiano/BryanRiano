@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BryanRiano
 - 👀 I’m interested in learning new programming languages and skills about architecture
-- 🌱 I’m currently learning PLSQL and node.js best practices to code
+- 🌱 I’m currently learning PLSQL and node.js best practices to code, React js in progress
 - 💞️ I’m looking to collaborate on innovation projects
 - 📫 How to reach me, can you send me an email to brayanriano21@gmail.com
 
